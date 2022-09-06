@@ -12,6 +12,10 @@
 }
 body {
     font-family: S-CoreDream-3Light;
+    background-color: lightseagreen;
+}
+#main {
+    max-width: 540px;
 }
 h3.user2-h3{
     font-family: MapoFlowerIsland;
