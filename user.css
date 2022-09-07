@@ -32,4 +32,6 @@ ol {
 address {
     margin: 0;
 }
-
+.text-align-st1{
+    text-align: justify;
+}
