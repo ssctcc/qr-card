@@ -23,7 +23,13 @@ h3.user2-h3{
 .padding-st1{
     padding-bottom: 1em;
 }
-.margin-st2{
-    margin-bottom: 2em;
+
+ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+address {
+    margin: 0;
 }
 
